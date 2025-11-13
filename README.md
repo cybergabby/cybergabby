@@ -34,9 +34,7 @@ Beyond hands-on testing, I share research, findings, and insights with the cyber
 - 💬 **Cybersecurity Training & Awareness**
 - 🕵️‍♂️ **Bug Bounty & Vulnerability Disclosure**
 
----
-
-## 📊 GitHub Stats & Activity
+## 🏆 GitHub Highlights
 
 <div align="center">
 
@@ -47,16 +45,11 @@ Beyond hands-on testing, I share research, findings, and insights with the cyber
 <img src="https://streak-stats.demolab.com?user=cybergabby&theme=radical&hide_border=true&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" height="180em" />
 
 <!-- Top Languages -->
+<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybergabby&layout=compact&langs_count=10&theme=radical&hide_border=true&title_color=00FF99" height="160em" />
 
 </div>
 
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cybergabby&theme=react-dark&hide_border=true&bg_color=0D1117&line=00FF99&color=00FF99" width="95%"/>
-</div>
-
----
 
 ## 🌍 Let’s Connect
 
