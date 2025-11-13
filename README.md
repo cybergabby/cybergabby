@@ -14,13 +14,13 @@
 
 ## 🧠 About Me
 
-I’m Gabriel Odusanya (GABBYTECH) — a Cybersecurity Professional, Application Security Engineer, and Penetration Tester focused on securing Web, API, and Mobile applications against real-world threats.
+I’m **Gabriel Odusanya (GABBYTECH)** — a **Cybersecurity Professional**, **Application Security Engineer**, and **Penetration Tester** focused on securing Web, API, and Mobile applications against real-world threats.
 
-I specialize in Offensive Security, Vulnerability Research, and Application Security Testing, with expertise in uncovering flaws like Broken Access Control, IDOR, SSRF, XSS, and Logic Bugs across modern app environments. My work revolves around analyzing attack surfaces, performing threat modeling, and strengthening security throughout the SDLC.
+I specialize in **Offensive Security**, **Vulnerability Research**, and **Application Security Testing**, with expertise in uncovering flaws like **Broken Access Control, IDOR, SSRF, XSS, and Logic Bugs** across modern app environments. My work revolves around analyzing attack surfaces, performing threat modeling, and strengthening security throughout the SDLC.
 
-I’m passionate about educating and mentoring others in AppSec and bug bounty methodologies, helping developers and security enthusiasts understand vulnerabilities from both an attacker’s and defender’s perspective.
+I’m passionate about educating and mentoring others in **AppSec** and **bug bounty methodologies**, helping developers and security enthusiasts understand vulnerabilities from both an attacker’s and defender’s perspective.
 
-Beyond hands-on testing, I share research, findings, and insights with the cybersecurity community on X (Twitter) and GitHub, contributing to open knowledge and practical AppSec learning.
+Beyond hands-on testing, I share research, findings, and insights with the cybersecurity community on **X (Twitter)** and **GitHub**, contributing to open knowledge and practical AppSec learning.
 
 > “Hack ethically. Defend intelligently. Teach relentlessly.” ⚔️
 
@@ -36,6 +36,27 @@ Beyond hands-on testing, I share research, findings, and insights with the cyber
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<!-- Profile Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=cybergabby&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&title_color=00FF99&icon_color=00FF99" height="180em" />
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=cybergabby&theme=radical&hide_border=true&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" height="180em" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybergabby&layout=compact&langs_count=10&theme=radical&hide_border=true&title_color=00FF99" height="160em" />
+
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cybergabby&theme=react-dark&hide_border=true&bg_color=0D1117&line=00FF99&color=00FF99" width="95%"/>
+</div>
+
+---
 
 ## 🌍 Let’s Connect
 
