@@ -14,8 +14,13 @@
 
 ## 🧠 About Me
 
-I’m **Gabriel Odusanya (GABBYTECH)** — a **Cybersecurity Professional**, **Penetration Tester**, and **Instructor** passionate about securing the digital world.  
-I specialize in **Offensive Security**, **Vulnerability Research**, and **Application Security Engineering**.
+I’m Gabriel Odusanya (GABBYTECH) — a Cybersecurity Professional, Application Security Engineer, and Penetration Tester focused on securing Web, API, and Mobile applications against real-world threats.
+
+I specialize in Offensive Security, Vulnerability Research, and Application Security Testing, with expertise in uncovering flaws like Broken Access Control, IDOR, SSRF, XSS, and Logic Bugs across modern app environments. My work revolves around analyzing attack surfaces, performing threat modeling, and strengthening security throughout the SDLC.
+
+I’m passionate about educating and mentoring others in AppSec and bug bounty methodologies, helping developers and security enthusiasts understand vulnerabilities from both an attacker’s and defender’s perspective.
+
+Beyond hands-on testing, I share research, findings, and insights with the cybersecurity community on X (Twitter) and GitHub, contributing to open knowledge and practical AppSec learning.
 
 > “Hack ethically. Defend intelligently. Teach relentlessly.” ⚔️
 
