@@ -9,30 +9,47 @@
 ![GitHub Stars](https://img.shields.io/github/stars/cybergabby?style=for-the-badge&color=yellow&cacheSeconds=60)
 
 </div>
+---
+## SUMMARY
 
+👋 Hi, I’m Gabriel Odusanya
+
+I’m a Security Engineer focused on SOC Operations, Detection Engineering, penetration testing and Application Security, working on building security monitoring systems, investigating threats, and strengthening modern application and cloud environments.
+
+My work centers around security visibility and defense, including building detection pipelines, analyzing logs, investigating suspicious activity, and improving an organization’s overall security posture. I also work on securing web and API applications by identifying vulnerabilities and integrating security practices into the development lifecycle.
+
+## 🔐 Areas of Focus
+
+Security Engineering & Infrastructure Security
+SOC Operations & Incident Investigation
+Detection Engineering & Log Analysis
+Application Security (Web & APIs)
+Threat Analysis & Security Monitoring
+
+⚙️ What I Work With
+
+SIEM and log analysis platforms such as Splunk
+Network analysis and reconnaissance using Nmap
+Security monitoring and log investigation across Linux and cloud environments
+Security automation and scripting for operational efficiency
+
+📚 What I Share
+
+I actively document and share my learning journey, research, and projects related to security engineering, threat detection, and application security on:
+
+GitHub
+
+X
+
+My goal is to contribute to the cybersecurity community by sharing practical security projects, detection techniques, and real-world security insights.
+
+🎯 Mission
+
+To build security systems that detect threats early, respond effectively, and strengthen the resilience of modern infrastructure and applications.
+
+“Detect early. Defend intelligently. Build resilient systems.” 🛡️
 ---
 
-## 🧠 About Me
-
-I’m **Gabriel Odusanya (GABBYTECH)** — a **Cybersecurity Professional**, **Application Security Engineer**, and **Penetration Tester** focused on securing Web, API, and Mobile applications against real-world threats.
-
-I specialize in **Offensive Security**, **Vulnerability Research**, and **Application Security Testing**, with expertise in uncovering flaws like **Broken Access Control, IDOR, SSRF, XSS, and Logic Bugs** across modern app environments. My work revolves around analyzing attack surfaces, performing threat modeling, and strengthening security throughout the SDLC.
-
-I’m passionate about educating and mentoring others in **AppSec** and **bug bounty methodologies**, helping developers and security enthusiasts understand vulnerabilities from both an attacker’s and defender’s perspective.
-
-Beyond hands-on testing, I share research, findings, and insights with the cybersecurity community on **X (Twitter)** and **GitHub**, contributing to open knowledge and practical AppSec learning.
-
-> “Hack ethically. Defend intelligently. Teach relentlessly.” ⚔️
-
----
-
-## 💻 Areas of Expertise
-
-- 🧩 **Application Security Engineering**
-- 🌐 **Web & Mobile Application Penetration Testing**
-- 🔐 **API Security Testing & Exploitation**
-- 💬 **Cybersecurity Training & Awareness**
-- 🕵️‍♂️ **Bug Bounty & Vulnerability Disclosure**
 
 ## 🏆 GitHub Highlights
 
