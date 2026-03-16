@@ -10,7 +10,6 @@
 
 </div>
 
----
 
 ## SUMMARY
 
@@ -20,7 +19,12 @@ I’m a Security Engineer focused on SOC Operations, Detection Engineering, pene
 
 My work centers around security visibility and defense, including building detection pipelines, analyzing logs, investigating suspicious activity, and improving an organization’s overall security posture. I also work on securing web and API applications by identifying vulnerabilities and integrating security practices into the development lifecycle.
 
-## 🔐 Areas of Focus
+I as well create contents on Youtube in guiding beginners throughout their journey
+
+Youtube: https://youtube.com/@gabbytech01
+
+
+## Areas of Focus
 
 Security Engineering & Infrastructure Security
 SOC Operations & Incident Investigation
@@ -28,7 +32,7 @@ Detection Engineering & Log Analysis
 Application Security (Web & APIs)
 Threat Analysis & Security Monitoring
 
-⚙️ What I Work With
+What I Work With
 
 SIEM and log analysis platforms such as Splunk
 Network analysis and reconnaissance using Nmap
@@ -39,9 +43,9 @@ Security automation and scripting for operational efficiency
 
 I actively document and share my learning journey, research, and projects related to security engineering, threat detection, and application security on:
 
-GitHub
-
-X
+GitHub: cybergabby
+Linkedin: Gabriel Odusanya
+X: @gabbytech01
 
 My goal is to contribute to the cybersecurity community by sharing practical security projects, detection techniques, and real-world security insights.
 
