@@ -1,8 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=680&lines=Hi+there!+👋+I'm+Gabriel+Odusanya;Cybersecurity+Professional+%7C+Application+Security+Tester;Instructor;Founder+of+VulnSentinel" alt="Typing SVG" />
-</h1>
-
-<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cybergabby&color=00FF99&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/cybergabby?style=for-the-badge&color=brightgreen)
@@ -19,41 +14,6 @@ I’m a Security Engineer focused on SOC Operations, Detection Engineering, pene
 
 My work centers around security visibility and defense, including building detection pipelines, analyzing logs, investigating suspicious activity, and improving an organization’s overall security posture. I also work on securing web and API applications by identifying vulnerabilities and integrating security practices into the development lifecycle.
 
-I as well create contents on Youtube in guiding beginners throughout their journey
-
-Youtube: https://youtube.com/@gabbytech01
-
-
-## Areas of Focus
-
-Security Engineering & Infrastructure Security
-SOC Operations & Incident Investigation
-Detection Engineering & Log Analysis
-Application Security (Web & APIs)
-Threat Analysis & Security Monitoring
-
-What I Work With
-
-SIEM and log analysis platforms such as Splunk
-Network analysis and reconnaissance using Nmap
-Security monitoring and log investigation across Linux and cloud environments
-Security automation and scripting for operational efficiency
-
-📚 What I Share
-
-I actively document and share my learning journey, research, and projects related to security engineering, threat detection, and application security on:
-
-GitHub: cybergabby
-Linkedin: Gabriel Odusanya
-X: @gabbytech01
-
-My goal is to contribute to the cybersecurity community by sharing practical security projects, detection techniques, and real-world security insights.
-
-🎯 Mission
-
-To build security systems that detect threats early, respond effectively, and strengthen the resilience of modern infrastructure and applications.
-
-“Detect early. Defend intelligently. Build resilient systems.” 🛡️
 ---
 
 
