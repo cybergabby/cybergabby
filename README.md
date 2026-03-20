@@ -1,15 +1,8 @@
+Hi, I’m Gabriel Odusanya (Cisco Engr)
 
-![Profile Views](https://komarev.com/ghpvc/?username=cybergabby&color=00FF99&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/cybergabby?style=for-the-badge&color=brightgreen)
-![GitHub Stars](https://img.shields.io/github/stars/cybergabby?style=for-the-badge&color=yellow&cacheSeconds=60)
+I’m a Security Engineer specializing in Network Security and Cloud Security (Azure), focused on building secure systems, analyzing network traffic, and detecting threats across modern environments.
 
-</div>
-
-👋 Hi, I’m Gabriel Odusanya
-
-I’m a Security Engineer focused on SOC Operations, Detection Engineering, penetration testing and Application Security, working on building security monitoring systems, investigating threats, and strengthening modern application and cloud environments.
-
-My work centers around security visibility and defense, including building detection pipelines, analyzing logs, investigating suspicious activity, and improving an organization’s overall security posture. I also work on securing web and API applications by identifying vulnerabilities and integrating security practices into the development lifecycle.
+My work centers on improving security visibility, strengthening defenses, and protecting infrastructure at both network and cloud levels.
 
 ---
 
