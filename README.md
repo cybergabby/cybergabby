@@ -5,9 +5,6 @@
 
 </div>
 
-
-## SUMMARY
-
 👋 Hi, I’m Gabriel Odusanya
 
 I’m a Security Engineer focused on SOC Operations, Detection Engineering, penetration testing and Application Security, working on building security monitoring systems, investigating threats, and strengthening modern application and cloud environments.
