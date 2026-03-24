@@ -1,4 +1,4 @@
-Hi, I’m Gabriel Odusanya (Cisco Engr)
+Hi, I’m Gabriel Odusanya
 
 I’m a Security Engineer specializing in Network Security and Cloud Security (Azure), focused on building secure systems, analyzing network traffic, and detecting threats across modern environments.
 
