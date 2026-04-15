@@ -1,9 +1,10 @@
 Hi, I’m Gabriel Odusanya
 
-I’m a Security Engineer specializing in Network Security and Cloud Security (Azure), focused on building secure systems, analyzing network traffic, and detecting threats across modern environments.
+I’m an Application Security Engineer focused on securing modern applications across their entire lifecycle. My expertise spans secure software design, code analysis, and identifying vulnerabilities before they reach production.
 
-My work centers on improving security visibility, strengthening defenses, and protecting infrastructure at both network and cloud levels.
+I specialize in embedding security into development workflows—covering areas like threat modeling, secure coding practices, and application-level testing—to ensure systems are built resilient from the ground up.
 
+My work is centered on reducing application risk, improving security posture, and helping organizations ship software that is not just functional, but secure by design.
 ---
 
 
