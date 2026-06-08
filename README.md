@@ -1,6 +1,6 @@
-Hi, I’m Gabriel Odusanya
+I’m Gabriel Odusanya
 
-I’m an Application Security Engineer focused on securing modern applications across their entire lifecycle. My expertise spans secure software design, code analysis & reviewing, Threat Modelling and identifying vulnerabilities before they reach production.
+I’m an Application Security Engineer | Penetration Tester | Security Researcher focused on securing modern applications across their entire lifecycle. My expertise spans secure software design, code analysis & reviewing, Threat Modelling and identifying vulnerabilities before they reach production.
 
 I specialize in embedding security into development workflows covering areas like threat modeling, secure coding practices, and application level testing to ensure systems are built resilient from the ground up. 
 
